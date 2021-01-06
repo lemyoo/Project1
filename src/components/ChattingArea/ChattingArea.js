@@ -21,9 +21,9 @@ export default function ChattingArea() {
             </div>
             <br />
             <div className="row float-right">
-                <iframe src={testVideo} ></iframe>
+                <iframe src={testVideo} title="video" ></iframe>
             </div>
-            
+
         </div>
     )
 }
