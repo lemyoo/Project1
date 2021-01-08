@@ -14,7 +14,9 @@
 }
 .my-image{
     border-radius: 50%;
-    padding-top: 9px;
+    height: 40px;
+    width: 40px;
+    margin-top: 10px;
 }
 .font-style{
     padding-top: 9px ;

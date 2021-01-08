@@ -9,8 +9,8 @@ export default function Person() {
             <a href="#home">
                 <div className="container-fluid counter-style counter-counter main ">
                     <div className=" row ">
-                        <div className="col-3 ">
-                            <img className="img-fluid my-image" src={dp} alt="profile pic" />
+                        <div className="col-3">
+                            <img className="my-image" src={dp} alt="profile pic" />
                         </div>
                         <div className="col-7">
                             <div className="name">
