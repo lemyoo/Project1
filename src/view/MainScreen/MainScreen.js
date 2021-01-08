@@ -7,7 +7,7 @@ import './styles.css';
 
 function MainScreen() {
     return (
-        <div className="container-fluid counter-style">
+        <div className="container-fluid counter-style check-screen">
             <div className="row">
                 <div className="col-12 mb-2">
                     <UserDetails />

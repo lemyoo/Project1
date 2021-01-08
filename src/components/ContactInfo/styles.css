@@ -15,12 +15,12 @@
 
 }
 .my-dp{
-    margin-top: 1px;
+    margin-top: 2%;
     margin-bottom: 40px;
-    margin-left: 11%;
-    margin-right: 11%;
-    width: 200px;
-    height: 200px;
+    margin-left: auto;
+    margin-right: auto;
+    width: 80%;
+    height: 80%;
     }
 .user-name{
     margin: auto;
