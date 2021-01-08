@@ -14,7 +14,7 @@ export default function UserDetails() {
             <div className="col-6  ">
                 <div className="d-flex float-right">
                 <FontAwesomeIcon icon={faBell} className="my-auto mx-3" color="#F3AC51"/>
-                <img className="dp mx-3" src={dp} />
+                <img className="dp mx-3" src={dp} alt="" />
                 </div>
             </div>
             </div>
