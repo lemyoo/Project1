@@ -17,25 +17,7 @@
     width: 40%;
     height: auto;
 }
-.data-mine , .data-friend{
-    margin-bottom: 30px;
-}
-.data-mine{
-    /*background: greenyellow;*/
-    float: right;
-    margin-left: 10px;
-    padding-left: 10px;
-    padding-right: 10px;
-    border-top-left-radius: 5px;
-    border-bottom-left-radius: 5px;
-
-}
-.data-friend{
-    /*background: yellow;*/
-    float: left;
-    margin-right: 10px;
-    padding-right: 10px;
-    border-top-right-radius: 5px;
-    border-bottom-right-radius: 5px;
-    padding-left: 10px;
+.video-style{
+    height: 200px;
+    width: 200px;
 }
