@@ -1,6 +1,6 @@
 import React from 'react'
 import './styles.css'
-import dp from '../../img/dp.jpg'
+import dp from '../../img/dp.png'
 import { FontAwesomeIcon } from '@fortawesome/react-fontawesome'
 import { faPhone, faEnvelope, faCamera } from '@fortawesome/free-solid-svg-icons'
 
@@ -14,7 +14,7 @@ export default function ContactInfo() {
             </div>
             <div className="row">
                 <div className="user-name">
-                    Emmanuel Lartey
+                    Parent 1
                 </div>
             </div>
             <div className="row">

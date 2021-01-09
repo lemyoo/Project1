@@ -1,6 +1,6 @@
 import React from 'react'
 import './styles.css'
-import dp from '../../img/dp.jpg'
+import dp from '../../img/dp.png'
 import { FontAwesomeIcon } from '@fortawesome/react-fontawesome'
 import { faBell } from '@fortawesome/free-solid-svg-icons'
 
