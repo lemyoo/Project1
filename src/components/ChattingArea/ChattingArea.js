@@ -56,7 +56,7 @@ export default function ChattingArea() {
                         <tr>
                             <td> Video </td>
                             <td>
-                                <video controls className="video-style">
+                                <video controls className="video-styls">
                                         <source src={testVideo} type="video/mp4"/>
                                 </video>
                             </td>
